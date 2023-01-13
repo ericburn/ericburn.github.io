@@ -1,6 +1,5 @@
-
 layout: page
-title: About
-permalink: https://ericburn.github.io/about
+title: "About"
+permalink: /about
 
 I am a data science enthusiast.
