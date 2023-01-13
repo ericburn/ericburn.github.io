@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Eric's Homepage
 description: My Personal Site
+header_pages: 
+  - about.md
