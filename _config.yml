@@ -1,5 +1,6 @@
-theme: jekyll-theme-cayman
-title: Eric's Homepage
+title: Octo Cat
+theme: jekyll-theme-minimal
+logo: "C:\Users\eburn\OneDrive\Desktop\AMATYC\2023 Conference Presentation\GitHub_logo.png"
 description: My Personal Site
 header_pages: 
   - about.md
