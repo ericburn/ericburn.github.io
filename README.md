@@ -3,8 +3,8 @@
 #### Technical Skills: R, git and GitHub 
 
 ## Education
-- M.A., Social Research Methodology | University of California, Los Angeles							       		
-- M.A., Mathematics Education	| Teachers College, Columbia University			        		
+- M.A., Social Research Methodology | UCLA					       		
+- M.A., Mathematics Education	| Columbia University			        		
 - B.A., Political Science | Northwestern University
 
 ## Work Experience
