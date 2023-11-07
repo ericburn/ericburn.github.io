@@ -1,6 +1,5 @@
-title: Eric's Page
-theme: jekyll-theme-cayman
-#logo: "C:\Users\eburn\OneDrive\Desktop\AMATYC\2023 Conference Presentation\GitHub_logo.png"
-description: My Personal Site
-header_pages: 
-  - about.md
+theme: jekyll-theme-minimal
+title: Eric Burnheimer 
+#logo: /assets/img/githublogo.png
+description: eburnheimer@massbay.edu
+show_downloads: true
