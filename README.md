@@ -21,6 +21,7 @@
  
 ## Publications
 1. Johnson, N.C., Franke, M.L., Webb, N.M., Ing, M., Burnheimer, E., & Zimmerman J. (2022). “What do you think she’s going to do next?” Irresolution and ambiguity as resources for collective engagement. _Cognition and Instruction, 41_(3),348-380. [DOI](https://doi.org/10.1080/07370008.2022.2129641)
+2. Webb, N.M., & Burnheimer, E. (2022). Cooperative and Collaborative Learning. In Robert Tierney, Fazal Rizvi, Kadriye Ercikan and Graham Smith, (Eds.), _International Encyclopedia of Education_, 4th Ed. Oxford: Elsevier.
 
 
 
