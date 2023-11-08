@@ -26,8 +26,12 @@
 4. Burnheimer, E. (2019). Presenting Statistical Concepts Through the Use of Memory Challenges.
 _MathAMATYC Educator, 10_(3), 11-15. 
 
+## Professional Organizations
+**American Mathematical Association of Two-Year Colleges**
+- Member, _June 2014 - Present_
 
-
+**American Educational Research Association**
+- Member, _September 2019 - Present_
 
 
 
