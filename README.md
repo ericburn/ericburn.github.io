@@ -24,7 +24,14 @@
 2. Webb, N.M., & Burnheimer, E. (2022). Cooperative and Collaborative Learning. In Robert Tierney, Fazal Rizvi, Kadriye Ercikan and Graham Smith, (Eds.), _International Encyclopedia of Education_, 4th Ed. Oxford: Elsevier.
 3. Webb, N. M., Ing, M., Burnheimer, E., Johnson, N. C., Franke, M. L., & Zimmerman, J. (2021). Is There a Right Way? Productive Patterns of Interaction during Collaborative Problem Solving. _Education Sciences, 11_(5), 1-18. [DOI](https://doi.org/10.3390/educsci11050214)
 4. Burnheimer, E. (2019). Presenting Statistical Concepts Through the Use of Memory Challenges.
-_MathAMATYC Educator, 10_(3), 11-15. 
+_MathAMATYC Educator, 10_(3), 11-15.
+
+## Conference Presentations
+-Burnheimer, E. (2017, November). _Math Can Be Taxing: Incorporate Taxes into Your Classroom Activities._ Poster presented at the annual meeting of the American Mathematical 
+Association of Two-Year Colleges, San Diego, CA.
+
+- Burnheimer, E. (2015, November). _Using Magic to Enhance Learning in Developmental Mathematics._ Poster presented at the annual meeting of the American Mathematical Association 
+of Two-Year Colleges, New Orleans, LA. 
 
 ## Professional Organizations
 **American Mathematical Association of Two-Year Colleges**
