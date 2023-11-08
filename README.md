@@ -27,7 +27,7 @@
 _MathAMATYC Educator, 10_(3), 11-15.
 
 ## Conference Presentations
--Burnheimer, E. (2017, November). _Math Can Be Taxing: Incorporate Taxes into Your Classroom Activities._ Poster presented at the annual meeting of the American Mathematical 
+- Burnheimer, E. (2017, November). _Math Can Be Taxing: Incorporate Taxes into Your Classroom Activities._ Poster presented at the annual meeting of the American Mathematical 
 Association of Two-Year Colleges, San Diego, CA.
 
 - Burnheimer, E. (2015, November). _Using Magic to Enhance Learning in Developmental Mathematics._ Poster presented at the annual meeting of the American Mathematical Association 
