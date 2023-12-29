@@ -27,6 +27,10 @@
 _MathAMATYC Educator, 10_(3), 11-15.
 
 ## Conference Presentations
+
+- Burnheimer, E. (2023, November). _The Benefits of Implementing Git & GitHub in a Data Science Curriculum_ [Presentation]. Annual Meeting of the American Mathematical 
+Association of Two-Year Colleges, Omaha, NE, United States.
+
 - Burnheimer, E., & Yo, J. (2023, April). _The Influence of Social Skills on Teacher-Child Relationships and Academic Achievement for Kindergarten Children_ [Paper Session]. Annual Meeting of the American Educational Research Association, Chicago, IL, United States.
 
 - Burnheimer, E. (2017, November). _Math Can Be Taxing: Incorporate Taxes into Your Classroom Activities_ [Poster Session]. Annual Meeting of the American Mathematical 
