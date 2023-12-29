@@ -42,7 +42,7 @@ of Two-Year Colleges, New Orleans, LA, United States.
 **American Educational Research Association**
 - Member, _September 2019 - Present_
 
-- **American Statistical Association**
+**American Statistical Association**
 - Member, _December 2023 - Present_
 
 
