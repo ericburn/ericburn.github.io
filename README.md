@@ -9,7 +9,7 @@
 
 ## Recent Work Experience
 **Instructor @ Massachusetts Bay Community College (_January 2023 - Present_)**
-- Courses taught include Quantitative Reasoning, Introductory Statistics, College Algebra, and Developmental Algebra
+- Courses taught include Quantitative Reasoning, Introductory Statistics, College Algebra, and Developmental Algebra.
 
 **Graduate Student Researcher @ UCLA (_September 2019 - September 2022_)**
 - Participated in an NSF-funded project that sought to develop a real-time observation measure for elementary school mathematics classrooms that captures interactions linked to learning outcomes.
@@ -28,16 +28,16 @@ _MathAMATYC Educator, 10_(3), 11-15.
 
 ## Conference Presentations
 
-- Burnheimer, E. (2023, November). _The Benefits of Implementing Git & GitHub in a Data Science Curriculum_ [Presentation]. Annual Meeting of the American Mathematical 
-Association of Two-Year Colleges, Omaha, NE, United States.
+- Burnheimer, E. (2023, November 9-12). _The Benefits of Implementing Git & GitHub in a Data Science Curriculum_ [Conference presentation]. American Mathematical 
+Association of Two-Year Colleges Annual Meeting, Omaha, NE, United States.
 
-- Burnheimer, E., & Yo, J. (2023, April). _The Influence of Social Skills on Teacher-Child Relationships and Academic Achievement for Kindergarten Children_ [Paper Session]. Annual Meeting of the American Educational Research Association, Chicago, IL, United States.
+- Burnheimer, E., & Yo, J. (2023, April 13-16). _The Influence of Social Skills on Teacher-Child Relationships and Academic Achievement for Kindergarten Children_ [Paper presentation]. American Educational Research Association Annual Meeting, Chicago, IL, United States.
 
-- Burnheimer, E. (2017, November). _Math Can Be Taxing: Incorporate Taxes into Your Classroom Activities_ [Poster Session]. Annual Meeting of the American Mathematical 
-Association of Two-Year Colleges, San Diego, CA, United States.
+- Burnheimer, E. (2017, November 9-12). _Math Can Be Taxing: Incorporate Taxes into Your Classroom Activities_ [Poster presentation]. American Mathematical 
+Association of Two-Year Colleges Annual Meeting, San Diego, CA, United States.
 
-- Burnheimer, E. (2015, November). _Using Magic to Enhance Learning in Developmental Mathematics_ [Poster Session]. Annual Meeting of the American Mathematical Association 
-of Two-Year Colleges, New Orleans, LA, United States. 
+- Burnheimer, E. (2015, November 19-22). _Using Magic to Enhance Learning in Developmental Mathematics_ [Poster presentation]. American Mathematical Association 
+of Two-Year Colleges Annual Meeting, New Orleans, LA, United States. 
 
 ## Professional Organizations
 **American Mathematical Association of Two-Year Colleges**
@@ -49,6 +49,10 @@ of Two-Year Colleges, New Orleans, LA, United States.
 **American Statistical Association**
 - Member, _December 2023 - Present_
 
+## Hobbies
+
+- Enjoy running marathons.
+- New York City Marathon, Chicago Marathon, Tokyo Marathon, and 3x Boston Marathon, among others.
 
 
 
