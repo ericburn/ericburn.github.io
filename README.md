@@ -1,6 +1,6 @@
 # Mathematics Instructor
 
-#### Technical Skills: R, Git and GitHub 
+#### Technical Skills: R, Git & GitHub 
 
 ## Education
 - M.A., Social Research Methodology, UCLA					       		
