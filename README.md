@@ -52,7 +52,8 @@ of Two-Year Colleges Annual Meeting, New Orleans, LA, United States.
 ## Hobbies
 
 - Enjoy running marathons.
-- New York City Marathon, Chicago Marathon, Tokyo Marathon, and 3x Boston Marathon, among others.
+- New York City Marathon, 3x Boston Marathon, Chicago Marathon,
+  Tokyo Marathon, and LA Marathon, among others.
 
 
 
