@@ -54,6 +54,7 @@ of Two-Year Colleges Annual Meeting, New Orleans, LA, United States.
 - Enjoy running marathons.
 - New York City Marathon, 3x Boston Marathon, Chicago Marathon,
   Tokyo Marathon, and LA Marathon, among others.
+- Following the Boston Red Sox.
 
 
 
