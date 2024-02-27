@@ -1,6 +1,6 @@
 # Mathematics Instructor
 
-#### Technical Skills: R, Git & GitHub 
+#### Technical Skills: R, PostgreSQL, SPSS, Excel 
 
 ## Education
 - M.A., Social Research Methodology, UCLA					       		
@@ -8,7 +8,7 @@
 - B.A., Political Science, Northwestern University
 
 ## Recent Work Experience
-**Instructor @ Massachusetts Bay Community College (_January 2023 - Present_)**
+**Math Instructor @ Massachusetts Bay Community College (_January 2023 - Present_)**
 - Courses taught include Quantitative Reasoning, Introductory Statistics, College Algebra, and Developmental Algebra.
 
 **Graduate Student Researcher @ UCLA (_September 2019 - September 2022_)**
