@@ -49,6 +49,9 @@ of Two-Year Colleges Annual Meeting, New Orleans, LA, United States.
 **American Statistical Association**
 - Member, _December 2023 - Present_
 
+**Association for Institutional Research**
+- Member, _May 2023 - Present_
+
 ## Hobbies
 
 - Enjoy running marathons.
