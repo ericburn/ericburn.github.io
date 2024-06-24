@@ -1,6 +1,6 @@
 # Mathematics Instructor
 
-#### Technical Skills: R, PostgreSQL, SPSS, Excel 
+#### Technical Skills: R, PostgreSQL, SPSS, Excel, Tableau
 
 ## Education
 - M.A., Social Research Methodology, UCLA					       		
@@ -52,11 +52,16 @@ of Two-Year Colleges Annual Meeting, New Orleans, LA, United States.
 **Association for Institutional Research**
 - Member, _May 2024 - Present_
 
+## Continuing Education and Certifications
+- University of Michigan, Summer Institute in Survey Research Techniques, 2024
+- Tableau Desktop Specialist Certification, 2024
+
 ## Hobbies
 
-- Enjoy running marathons.
+- Running.
 - New York City Marathon, 3x Boston Marathon, Chicago Marathon,
-  Tokyo Marathon, and LA Marathon, among others.
+  Tokyo Marathon, London Marathon, and LA Marathon, among others.
+- USATF Certified Cross Country Specialist
 - Following the Boston Red Sox.
 
 
