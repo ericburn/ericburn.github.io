@@ -8,8 +8,10 @@
 - B.A., Political Science, Northwestern University
 
 ## Recent Work Experience
-**Math Instructor @ Massachusetts Bay Community College (_January 2023 - Present_)**
+**Math Instructor @ Massachusetts Bay Community College (_January 2023 - Present_*)**
 - Courses taught include Introductory Statistics, Quantitative Reasoning, College Algebra, and Developmental Algebra.
+
+- *I am not teaching during the spring 2025 semester in order to pursue a position in institutional research. 
 
 **Graduate Student Researcher @ UCLA (_September 2019 - September 2022_)**
 - Participated in an NSF-funded project that sought to develop a real-time observation measure for elementary school mathematics classrooms that captures interactions linked to learning outcomes.
