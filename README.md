@@ -9,7 +9,7 @@
 
 ## Recent Work Experience
 **Math Instructor @ Massachusetts Bay Community College (_January 2023 - Present_)**
-- Courses taught include Quantitative Reasoning, Introductory Statistics, College Algebra, and Developmental Algebra.
+- Courses taught include Introductory Statistics, Quantitative Reasoning, College Algebra, and Developmental Algebra.
 
 **Graduate Student Researcher @ UCLA (_September 2019 - September 2022_)**
 - Participated in an NSF-funded project that sought to develop a real-time observation measure for elementary school mathematics classrooms that captures interactions linked to learning outcomes.
