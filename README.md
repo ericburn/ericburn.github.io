@@ -45,9 +45,6 @@ of Two-Year Colleges Annual Meeting, New Orleans, LA, United States.
 **American Mathematical Association of Two-Year Colleges**
 - Member, _June 2014 - Present_
 
-**American Educational Research Association**
-- Member, _September 2019 - Present_
-
 **American Statistical Association**
 - Member, _December 2023 - Present_
 
