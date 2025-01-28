@@ -19,7 +19,14 @@
 
 **Instructor @ Bunker Hill Community College (_January 2013 - July 2019_)**
 - Taught many sections of arithmetic and introductory algebra.
-- Created math department collaboration site for sharing lesson plans, articles, videos, and other teaching materials.  
+- Created math department collaboration site for sharing lesson plans, articles, videos, and other teaching materials.
+
+## Continuing Education and Certifications
+- University of Michigan, Summer Institute in Survey Research Techniques, 2024
+- Tableau Desktop Specialist Certification, 2024
+- IPEDS Essentials Course
+- IPEDS Efficiencies Course
+- Association of Institutional Research Foundations Bootcamp
  
 ## Publications
 1. Johnson, N.C., Franke, M.L., Webb, N.M., Ing, M., Burnheimer, E., & Zimmerman J. (2022). “What do you think she’s going to do next?” Irresolution and ambiguity as resources for collective engagement. _Cognition and Instruction, 41_(3),348-380. [DOI](https://doi.org/10.1080/07370008.2022.2129641)
@@ -50,10 +57,6 @@ of Two-Year Colleges Annual Meeting, New Orleans, LA, United States.
 
 **Association for Institutional Research**
 - Member, _May 2024 - Present_
-
-## Continuing Education and Certifications
-- University of Michigan, Summer Institute in Survey Research Techniques, 2024
-- Tableau Desktop Specialist Certification, 2024
 
 ## Hobbies
 
