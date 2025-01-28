@@ -60,11 +60,11 @@ of Two-Year Colleges Annual Meeting, New Orleans, LA, United States.
 
 ## Hobbies
 
-- Running.
+- Running
 - New York City Marathon, 3x Boston Marathon, Chicago Marathon,
-  Tokyo Marathon, London Marathon, and LA Marathon, among others.
+  Tokyo Marathon, London Marathon, and LA Marathon, among others
 - USATF Level 1 Track & Field Coach
 - USATF Certified Cross Country Specialist
-- Following the Boston Red Sox.
+- Reading fiction 
 
 
