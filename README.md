@@ -17,7 +17,7 @@
 - Participated in an NSF-funded project that sought to develop a real-time observation measure for elementary school mathematics classrooms that captures interactions linked to learning outcomes.
 - Participated in weekly project meetings, data collection, and data representation development.
 
-**Instructor @ Bunker Hill Community College (_October 2010 - July 2019_)**
+**Math Instructor @ Bunker Hill Community College (_October 2010 - July 2019_)**
 - Taught many sections of arithmetic and introductory algebra.
 - Created math department collaboration site for sharing lesson plans, articles, videos, and other teaching materials.
 
